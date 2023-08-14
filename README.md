@@ -1,6 +1,6 @@
 Project Description: Book Similarity Analysis using Jaccard Similarity
 
-In this project, I have designed and implemented a Python program to explore the relationships between a set of books by calculating their similarity using the Jaccard similarity measure. The dataset used for analysis consists of a collection of books from the Premier League, spanning over 20+ seasons. Each book's content, including fixture details, match results, and the number of goals scored, has been provided for analysis.
+In this project, I have designed and implemented a Python program to explore the relationships between a set of books by calculating their similarity using the Jaccard similarity measure.
 
 Key Features:
 
